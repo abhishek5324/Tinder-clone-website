@@ -1,0 +1,192 @@
+#title
+{
+  background-color: #ff4c68;
+  color:#fff;
+
+}
+.navbar
+{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand
+{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+
+
+.container-fluid
+{
+  padding: 3% 15% 7% ;
+}
+
+
+h1
+{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+h2
+{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3
+{
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.p
+{
+  color: #8f8f8f;
+}
+.nav-item
+{
+  padding:  0 18px;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+
+.btn1
+{
+  margin: 5% 3% 5% 0;
+}
+
+.title-img
+{
+  transform: rotate(25deg);
+  width: 300px;
+
+  position: absolute;
+
+
+}
+
+.circle1
+{
+width: 40px;
+height: 40px;
+}
+.feature-box
+{
+  text-align: center;
+  padding: 5%;
+}
+#features
+{
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+.fas
+{
+  color: #ef8172;
+  margin-bottom: 1rem;
+
+}
+.fas:hover{
+  color: #ff4c68;
+}
+
+  /* Testimonials */
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.test-img
+{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+.img1
+{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+/* padding */
+
+#pricing
+{
+  text-align: center !important;
+  padding: 100px;
+
+}
+.pricing-col
+{
+  padding: 3% 2%;
+
+}
+@media (max-width: 992px)
+{
+  #title
+  {
+    text-align: center;
+  }
+
+  .title-img
+  {
+    position: static;
+    transform: rotate(0);
+
+
+  }
+}
+
+/* cta */
+
+#cta
+{
+  background-color: #ff4c68;
+  padding: 7% 15%;
+    text-align: center;
+}
+.ctah
+{
+  font-family: "Montserrat";
+
+  color: #fff;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+.btn2
+{
+    margin: 5% 3% 5% 0%;
+}
+/* footer */
+
+#footer
+{
+  padding: 7% 15%;
+  text-align: center;
+
+}
+.foot1
+{
+  margin: 20px 10px;
+}
